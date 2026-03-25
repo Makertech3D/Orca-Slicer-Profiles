@@ -1,0 +1,90 @@
+{
+    "name": "Makertech",
+    "version": "02.03.02.60",
+    "force_update": "0",
+    "description": "Makertech configurations",
+    "machine_model_list": [
+        {
+            "name": "ProForge 300",
+            "sub_path": "machine/ProForge 300.json"
+        },
+        {
+            "name": "ProForge 4.2",
+            "sub_path": "machine/ProForge 4.2.json"
+        },
+        {
+            "name": "ProForge 5",
+            "sub_path": "machine/ProForge 5.json"
+        }
+    ],
+    "process_list": [
+        {
+            "name": "fdm_process_common",
+            "sub_path": "process/fdm_process_common.json"
+        },
+        {
+            "name": "makertech_process_common",
+            "sub_path": "process/makertech_process_common.json"
+        },
+        {
+            "name": "ProForge 0.12 Fine",
+            "sub_path": "process/ProForge 0.12 Fine.json"
+        },
+        {
+            "name": "ProForge 0.20 Standard",
+            "sub_path": "process/ProForge 0.20 Standard.json"
+        },
+        {
+            "name": "ProForge 0.28 Draft",
+            "sub_path": "process/ProForge 0.28 Draft.json"
+        }
+    ],
+    "filament_list": [
+        {
+            "name": "makertech_filament_common",
+            "sub_path": "filament/makertech_filament_common.json"
+        },
+        {
+            "name": "Makertech PLA @Makertech",
+            "sub_path": "filament/Makertech PLA @Makertech.json"
+        },
+        {
+            "name": "Makertech PETG @Makertech",
+            "sub_path": "filament/Makertech PETG @Makertech.json"
+        },
+        {
+            "name": "Makertech ABS @Makertech",
+            "sub_path": "filament/Makertech ABS @Makertech.json"
+        }
+    ],
+    "machine_list": [
+        {
+            "name": "fdm_machine_common",
+            "sub_path": "machine/fdm_machine_common.json"
+        },
+        {
+            "name": "fdm_klipper_common",
+            "sub_path": "machine/fdm_klipper_common.json"
+        },
+        {
+            "name": "fdm_toolchanger_common",
+            "sub_path": "machine/fdm_toolchanger_common.json"
+        },
+        {
+            "name": "makertech_toolchanger_common",
+            "sub_path": "machine/makertech_toolchanger_common.json"
+        },
+        {
+            "name": "ProForge 300",
+            "sub_path": "machine/ProForge 300 Profile.json"
+        },
+        {
+            "name": "ProForge 4.2",
+            "sub_path": "machine/ProForge 4.2 Profile.json"
+        },
+        {
+            "name": "ProForge 5",
+            "sub_path": "machine/ProForge 5 Profile.json"
+        }
+    ]
+}
