@@ -76,31 +76,6 @@
         "0x0",
         "0x0"
     ],
-    "extruder_printable_area": [
-        [
-            "0x0",
-            "300x0",
-            "300x300",
-            "0x300"
-        ],
-        [
-            "0x0",
-            "300x0",
-            "300x300",
-            "0x300"
-        ],
-        [
-            "0x0",
-            "300x0",
-            "300x300",
-            "0x300"
-        ]
-    ],
-    "extruder_printable_height": [
-        "300",
-        "300",
-        "300"
-    ],
     "extruder_type": [
         "Direct Drive",
         "Direct Drive",
@@ -327,7 +302,7 @@
     ],
     "z_offset": "0",
     "max_print_height": "300",
-    "version": "02.03.02.60",
+    "version": "02.03.02.61",
     "compatible_process": [
         "ProForge 0.12 Fine",
         "ProForge 0.20 Standard",

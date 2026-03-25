@@ -29,16 +29,10 @@
     "machine_unload_filament_time": "0",
     "manual_filament_change": "0",
     "master_extruder_id": "1",
-    "nozzle_flush_dataset": [
-        "0"
-    ],
     "nozzle_height": "2.5",
     "nozzle_hrc": "0",
     "parking_pos_retraction": "92",
     "pellet_modded_printer": "0",
-    "physical_extruder_map": [
-        "0"
-    ],
     "preferred_orientation": "0",
     "printer_agent": "",
     "printer_model": "Makertech Toolchanger Printer",
@@ -65,5 +59,11 @@
     "time_lapse_gcode": "",
     "upward_compatible_machine": [],
     "default_print_profile": "Makertech Standard 0.20",
-    "version": "02.03.02.60"
+    "version": "02.03.02.61",
+    "physical_extruder_map": [
+        "0"
+    ],
+    "nozzle_flush_dataset": [
+        "0"
+    ]
 }
