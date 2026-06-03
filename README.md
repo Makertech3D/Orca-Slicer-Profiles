@@ -1,6 +1,6 @@
 # ProForge OrcaSlicer Profiles — Installation
 
-Profiles for the **ProForge 300**, **ProForge 4.2**, and **ProForge 5** toolchanger 3D printers.
+Profiles for the **ProForge 5, 300 and 4.2** toolchanger 3D printers.
 
 ---
 
